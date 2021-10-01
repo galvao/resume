@@ -8,6 +8,15 @@ Professor Convidado (Especialista) de Pós-Graduação na UNOESC (SC), Faculdade
 
 ## Experiência Profissional
 
+### UOL EdTech
+Engenheiro de Software Sênior - 03/05/2021 - atual
+
+• Otimização de código-legado/
+
+• Suporte aos Desenvolvedores(as) e DevOps em questões relacionadas à linguagem;
+
+• Desenho de uma proposta nova de arquitetura para os sistemas da empresa, com debate frequente e posterior aprovação de todos os LTs.
+
 ### Vivaweb
 Programador Sênior - 08/07/2020 - 09/04/2021
 

@@ -1,8 +1,8 @@
 # Resume: Er Galvão Abbott
 [https://galvao.eti.br](https://galvao.eti.br)
 
-Profissional com mais de 25 anos de experiência no desenvolvimento de aplicações web, 
-sendo mais de 20 destes com a linguagem PHP e mais de 12 com Zend Framework / Laminas Project. 
+Profissional com mais de 25 anos de experiência no desenvolvimento de aplicações web,
+sendo mais de 20 destes com a linguagem PHP e mais de 12 com Zend Framework / Laminas Project.
 Altamente presente na Comunidade Brasileira de Software, sendo Diretor da [PHP Conference Brasil](https://phpconference.com.br) e da [ConFLOSS](https://confloss.com.br) e palestrante em eventos nacionais e internacionais.
 Professor Convidado (Especialista) de Pós-Graduação na UNOESC (SC), Faculdade Alfa (PR) e Unicesumar (PR). [Embaixador Fedora LATAM](https://fedoraproject.org/wiki/User:Galvao), [Evangelista e contribuidor para a linguagem PHP](https://people.php.net/galvao) e para o Laminas Project. Entusiasta de Segurança, Qualidade e Open Source.
 
@@ -11,11 +11,13 @@ Professor Convidado (Especialista) de Pós-Graduação na UNOESC (SC), Faculdade
 ### UOL EdTech
 Engenheiro de Software Sênior - 03/05/2021 - atual
 
-• Otimização de código-legado/
+• Desenvolvimento de uma aplicação de anonimização de dados para compliance com a LGPD;
+
+• Desenho de uma proposta nova de arquitetura para os sistemas da empresa, com debate frequente e posterior aprovação de todos os LTs;
 
 • Suporte aos Desenvolvedores(as) e DevOps em questões relacionadas à linguagem;
 
-• Desenho de uma proposta nova de arquitetura para os sistemas da empresa, com debate frequente e posterior aprovação de todos os LTs.
+• Otimização de código-legado.
 
 ### Vivaweb
 Programador Sênior - 08/07/2020 - 09/04/2021
@@ -29,7 +31,7 @@ Programador Sênior - 08/07/2020 - 09/04/2021
 ### Diversas
 #### Desenvolvedor, Instrutor e Consultor Freelancer - 2011 - 2020
 
-• Desenvolvimento de aplicações web para diversas empresas; 
+• Desenvolvimento de aplicações web para diversas empresas;
 
 • Consultoria na área de segurança, com realização de testes semi-automatizados, análise de resultados e composição de relatórios, para clientes no RS e SP;
 
@@ -82,23 +84,23 @@ Programador Freelancer - 19/04/2000 - 29/04/2002
 • Desenvolvimento e Manutenção do portal do provedor, incluindo as features de maior destaque, como portal de downloads, instalação/customização/manutenção de webmail e webchat, etc…
 
 ## Educação
-### Ensino Superior (Incompleto): 
+### Ensino Superior (Incompleto):
 Comunicação Social - Publicidade e Propaganda
 
 Pontifícia Universidade Católica do Rio Grande do Sul (PUC-RS)
 
-### Segundo Grau: 
+### Segundo Grau:
 Curso Supletivo Pré-Universitário
-### Primeiro Grau: 
+### Primeiro Grau:
 IMEC - Instituto Metodista de Educação e Cultura - Colégio Americano
 
 ## Skills
 
-### Linguagens: 
+### Linguagens:
 HTML, CSS, JavaScript, JSON, OAS, XML, Perl, PHP, SQL
-### Frameworks: 
+### Frameworks:
 CodeIgniter, Laravel, Laminas MVC, Laminas Mezzio
-### SGBDs: 
+### SGBDs:
 MariaDB/MySQL, PostgreSQL, Oracle
-### SOs: 
+### SOs:
 Linux (Fedora, Ubuntu, Debian)

@@ -3,7 +3,7 @@
 
 Professional with more than 25 years of experience in developing web applications, being more than 20 of these with the PHP language and more than 12 with Zend Framework / Laminas Project.
 Highly present in the Brazilian Software Community, being the Director of [PHP Conference Brasil](https://phpconference.com.br) and [ConFLOSS](https://confloss.com.br) and being a speaker in national and international events.
-Guest Post-Graduation Professor (Specialist) at UNOESC (SC), Faculdade Alfa (PR) e Unicesumar (PR). [Fedora Ambassador- LATAM](https://fedoraproject.org/wiki/User:Galvao), the first Brazilian to become [Postman Supernova](https://www.postman.com/ergalvao), [Evangelist and contribuidor to the PHP language](https://people.php.net/galvao) and for Laminas Project. Security, Quality and Open Source Enthusiast.
+Guest Post-Graduation Professor (Specialist) at UNOESC (SC), Faculdade Alfa (PR) and Unicesumar (PR). [Fedora Ambassador- LATAM](https://fedoraproject.org/wiki/User:Galvao), the first Brazilian to become [Postman Supernova](https://www.postman.com/ergalvao), [Evangelist and contribuidor to the PHP language](https://people.php.net/galvao) and for Laminas Project. Security, Quality and Open Source Enthusiast.
 
 ## Professional Experience
 

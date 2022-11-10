@@ -7,8 +7,17 @@ Guest Post-Graduation Professor (Specialist) at UNOESC (SC), Faculdade Alfa (PR)
 
 ## Professional Experience
 
+### Vox Tecnologia
+Senior Programmer II - 04/04/2022 - 08/10/2022
+
+• Adapta Oracle SQL queries for PostgreSQL;
+
+• Development for the company's softwares;
+
+• Legacy Code Optimization
+
 ### UOL EdTech
-Senior Software Engineer - 05/03/2021 - present day
+Senior Software Engineer - 05/03/2021 - 03/18/2022
 
 • Developing a CLI application for data anonimization in order for the company to be compliant with LGPD (Brazilian counterpart to GDPR);
 

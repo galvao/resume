@@ -9,7 +9,7 @@ Professor Convidado (Especialista) de Pós-Graduação na UNOESC (SC), Faculdade
 ## Experiência Profissional
 
 ### Vox Tecnologia
-Engenheiro de Software Sênior - 03/05/2021 - 10/08/2022
+Programador Sênior II - 04/04/2022 - 10/08/2022
 
 • Adaptação de queries SQL Oracle para PostgreSQL;
 

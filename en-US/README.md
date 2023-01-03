@@ -3,7 +3,7 @@
 
 Professional with more than 25 years of experience in developing web applications, being more than 20 of these with the PHP language and more than 12 with Zend Framework / Laminas Project.
 Highly present in the Brazilian Software Community, being the Director of [PHP Conference Brasil](https://phpconference.com.br) and [ConFLOSS](https://confloss.com.br) and being a speaker in national and international events.
-Guest Post-Graduation Professor (Specialist) at UNOESC (SC), Faculdade Alfa (PR) and Unicesumar (PR). [Fedora Ambassador- LATAM](https://fedoraproject.org/wiki/User:Galvao), the first Brazilian to become [Postman Supernova](https://www.postman.com/ergalvao), [Evangelist and contribuidor to the PHP language](https://people.php.net/galvao) and for Laminas Project. Security, Quality and Open Source Enthusiast.
+Guest Post-Graduation Professor (Specialist) at UNOESC (SC), Faculdade Alfa (PR) and Unicesumar (PR). [Fedora Ambassador- LATAM](https://fedoraproject.org/wiki/User:Galvao), the first Brazilian to become [Postman Supernova](https://www.postman.com/ergalvao), [Evangelist and contributor to the PHP language](https://people.php.net/galvao) and for Laminas Project. Security, Quality and Open Source Enthusiast.
 
 ## Professional Experience
 
@@ -17,7 +17,7 @@ Senior Programmer II - 04/04/2022 - 08/10/2022
 • Legacy Code Optimization
 
 ### UOL EdTech
-Senior Software Engineer - 05/03/2021 - 03/18/2022
+Project Manager - 05/03/2021 - 03/18/2022
 
 • Developing a CLI application for data anonimization in order for the company to be compliant with LGPD (Brazilian counterpart to GDPR);
 
@@ -77,7 +77,7 @@ Senior Programmer - 07/08/2020 - 04/09/2021
 ### Informa Brasil
 #### Programmer - 05/24/2002 - 09/17/2003
 
-• onversion, through analysis of concepts and inner workings, of a web based system developen with ASP/MS SQL Server to PHP/Oracle/PostgreSQL;
+• Conversion, through analysis of concepts and inner workings, of a web based system developen with ASP/MS SQL Server to PHP/Oracle/PostgreSQL;
 
 • Web development for the company's flagship product, including an automatic parsing routine for texts, using relationships with two relational databases adding up to millions of records.
 

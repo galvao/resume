@@ -18,7 +18,7 @@ Programador Sênior II - 04/04/2022 - 10/08/2022
 • Otimização e melhorias em código-legado.
 
 ### UOL EdTech
-Engenheiro de Software Sênior - 03/05/2021 - 18/03/2022
+Gerente de Projetos - 03/05/2021 - 18/03/2022
 
 • Desenvolvimento de uma aplicação de anonimização de dados para compliance com a LGPD;
 

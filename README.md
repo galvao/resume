@@ -1,4 +1,4 @@
 # Resume
-[en-US](en-US/README.md)
+[en-US](en-US/Resume Er Galvão Abbott_en.pdf)
 
-[pt-BR](pt-BR/README.md)
+[pt-BR](pt-BR/Resume Er Galvão Abbott_ptBR.pdf)
